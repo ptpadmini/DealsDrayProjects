@@ -1,0 +1,10 @@
+DealsDray Projects 
+
+UI Test Case 
+Automation of Resolution Testing and Screenshots using Selenium Web Drivers
+
+We want the candidate to test and check the website is opening correctly in multiple browsers and resolutions. We want them to create a folder for each Browser and Resolution where in they save the screenshot of the whole page saved.
+
+## This will be a test to check the functional flow of the application using Selenium Web Drivers.
+
+This will be a test in which we want a candidate to log in to a web application using the supplied credentials and upload an XLS file that we will share. Once uploaded, there will be validations that need to be checked on the page, and we require a video of the whole running process and a screenshot of the final output received.
